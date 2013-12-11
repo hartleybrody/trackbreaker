@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Private Reading",
+  "description": "Read your emails discreetly.",
+  "version": "1.0.0.0",
+
+  // "icons": {
+  //   "128": "images/buzzkill-logo.jpg"
+  // },
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "http://*/*",
+    "https://*/*",
+    "tabs",
+    "storage"
+  ],
+
+  "background": {
+    "page": "background.html"
+    // "persistent": false  // if false, then bg page becomes an "event page" that's unloaded when idle
+  }
+
+}
