@@ -5,9 +5,10 @@
   "description": "Read your emails discreetly.",
   "version": "1.0.0.0",
 
-  // "icons": {
-  //   "128": "images/buzzkill-logo.jpg"
-  // },
+  "icons": {
+    "256": "images/big-logo.jpg",
+    "64": "images/small-logo.jpg"
+  },
 
   "permissions": [
     "webRequest",
