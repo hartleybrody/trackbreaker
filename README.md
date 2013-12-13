@@ -3,7 +3,9 @@ Track Breaker
 
 [Track Breaker is a Chrome Extension](https://chrome.google.com/webstore/detail/cibjenpiogkojegdeiefhcllldhbedkk/) that automatically prevents email tracking pixels from loading. Specifically, it is designed to block the "read receipt" type tracking from apps like Yesware, Signals (HubSpot) and Streak.
 
-Email is an asynchronous communication tool. Instant read receipt notifications create artificial social pressure to respond to a message immediately after you read it for the first time. The extension avoids that bad user experience.
+Email is an asynchronous communication tool. Instant read receipt notifications create artificial social pressure for the recipient of an email to respond immediately. The extension avoids that bad user experience.
+
+With Gmail's [recent announcement](http://gmailblog.blogspot.com/2013/12/images-now-showing.html) that all email images will be loaded by default, this is an even bigger issue than ever before.
 
 [Install the extension.](https://chrome.google.com/webstore/detail/cibjenpiogkojegdeiefhcllldhbedkk/) Feedback, issues and pull requests welcome.
 
