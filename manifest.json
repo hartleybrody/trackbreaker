@@ -21,7 +21,6 @@
 
   "background": {
     "page": "background.html"
-    // "persistent": false  // if false, then bg page becomes an "event page" that's unloaded when idle
   }
 
 }
