@@ -7,7 +7,10 @@
 
   "icons": {
     "256": "images/big-logo.jpg",
-    "64": "images/small-logo.jpg"
+    "128": "images/medium-logo.jpg",
+    "64": "images/small-logo.jpg",
+    "48": "images/very-small-logo.jpg",
+    "16": "images/tiny-logo.jpg"
   },
 
   "permissions": [
